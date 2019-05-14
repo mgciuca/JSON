@@ -6,7 +6,8 @@
   ],
   "produs": [
     { "id": 1, "denumire": "mere", "tip": "fruct" },
-    { "id": 2, "denumire": "pere", "tip": "fruct" }
+    { "id": 2, "denumire": "pere", "tip": "fruct" },
+    { "id": 2, "denumire": "roșii", "tip": "leguma" }
   ],
   "profile": {
     "name": "mgciuca"
